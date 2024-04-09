@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator2</string>
+    <string name="add">ADD</string>
+    <string name="sub">SUBTRACT</string>
+    <string name="mul">MULTIPLY</string>
+    <string name="div">DIVIDE</string>
+    <string name="sqr">SQUARE ROOT</string>
+    <string name="pow">POWER OF</string>
+</resources>
